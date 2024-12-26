@@ -1,6 +1,7 @@
 # Node modules for the server
 server/node_modules/
 client/node_modules/
+asp
 
 # Environment files
 #server/.env
